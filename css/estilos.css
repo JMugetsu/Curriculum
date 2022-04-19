@@ -154,7 +154,7 @@ header label{
 .derecha{
     width: 30%;
     height: 50vh;
-    background:url(/image/WhatsApp\ Image\ 2022-04-13\ at\ 10.37.00\ AM.jpeg) no-repeat;
+    background:url(./image/WhatsApp\ Image\ 2022-04-13\ at\ 10.37.00\ AM.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
