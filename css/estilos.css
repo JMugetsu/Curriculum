@@ -151,13 +151,7 @@ header label{
     font-size: 20px;
 }
 /* parte derecha que posee el section 2 */
-.derecha{
-    width: 30%;
-    height: 50vh;
-    background:url(./image/WhatsApp\ Image\ 2022-04-13\ at\ 10.37.00\ AM.jpeg) no-repeat;
-    background-size: cover;
-    background-position: center;
-}
+
 /* encabezado*/
 h1{
     padding: 25px 0px 0px 25%;
