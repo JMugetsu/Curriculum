@@ -99,7 +99,7 @@ header label{
 }
 /* IMPORTANTE PARA HACER CAMBIOS EN LA BARRA DE MENU RESPONSIVE */
 /* ajusta el menu vertical mediante la query(@media) */
-@media(max-width:1150px){
+@media(max-width:1400px){
     header{
         padding: 17px;
     }
